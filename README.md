@@ -29,9 +29,9 @@ If you work with micro-frontends, you know the architectural pain: *How do you m
 ## 📦 Installation
 
 npm install frontend-micro-bridge
-# or
+
 yarn add frontend-micro-bridge
-# or
+
 pnpm add frontend-micro-bridge
 
 ## 🗺 Roadmap

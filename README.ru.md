@@ -29,9 +29,9 @@
 ## 📦 Установка
 
 npm install frontend-micro-bridge
-# или
+
 yarn add frontend-micro-bridge
-# или
+
 pnpm add frontend-micro-bridge
 
 ## 🗺 Планы развития (Roadmap)

@@ -1,6 +1,5 @@
 # frontend-micro-bridge 🌉
 
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/frontend-micro-bridge)
 ![npm version](https://img.shields.io/npm/v/frontend-micro-bridge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 

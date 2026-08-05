@@ -19,7 +19,7 @@ We strictly follow a simplified GitFlow structure:
 
 ---
 
-## 💬 Conventional Commits Rule
+## 💬 Conventional Commits Rule.
 
 We enforce strict Conventional Commits to automatically generate changelogs:
 

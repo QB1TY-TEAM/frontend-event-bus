@@ -1,14 +1,14 @@
-# Contributing to react-smart-action 🚀
+# Contributing to frontend-micro-bridge
 
-First off, thank you for considering contributing! We aim to build the most resilient and developer-friendly optimistic UI library for React 19.
+First off, thank you for considering contributing! We aim to build the most resilient and developer-friendly library for micro frontend.
 
 ## 🌿 Git Workflow & Branching Strategy
 
 We strictly follow a simplified GitFlow structure:
 - `main` — Production/Release branch. **Direct pushes are disabled.**
 - `develop` — Active development and integration branch.
-- `feature/*` — For developing new features (e.g., `feature/use-optimistic-toggle`).
-- `fix/*` — For bug fixes (e.g., `fix/rollback-memory-leak`).
+- `feature/*` — For developing new features (e.g., `feature/add-someone`).
+- `fix/*` — For bug fixes (e.g., `fix/example`).
 
 ### How to contribute:
 1. Fork the repository and clone it locally.
@@ -26,7 +26,7 @@ We enforce strict Conventional Commits to automatically generate changelogs:
 Format: `<type>(<scope>): <short description>`
 
 ### Allowed Types:
-- `feat`: A new feature (e.g., `feat(toggle): add debounce option to toggle hook`)
+- `feat`: A new feature (e.g., `feat(toggle): add feature`)
 - `fix`: A bug fix (e.g., `fix(list): resolve array mutation bug on rollback`)
 - `docs`: Documentation changes (e.g., `docs: update README with Next.js example`)
 - `test`: Adding or updating tests

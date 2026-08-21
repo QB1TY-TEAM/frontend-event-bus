@@ -1,4 +1,4 @@
-# Contributing to frontend-micro-bridge
+# Contributing to frontend-event-bus
 
 First off, thank you for considering contributing! We aim to build the most resilient and developer-friendly library for micro frontend.
 

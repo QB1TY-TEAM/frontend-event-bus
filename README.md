@@ -1,7 +1,9 @@
-# frontend-micro-bridge 🌉
+# frontend-event-bus 🌉
 
-![npm version](https://img.shields.io/npm/v/frontend-micro-bridge)
+![npm version](https://img.shields.io/npm/v/frontend-event-bus)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![GitHub qb1ty](https://img.shields.io/badge/GitHub-qb1ty-181717?logo=github)](https://github.com/qb1ty)
+[![GitHub fukashigiNo](https://img.shields.io/badge/GitHub-fukashigiNo-181717?logo=github)](https://github.com/fukashigiNo)
 
 [🇷🇺 Читать на русском](README.ru.md)
 
